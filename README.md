@@ -1,4 +1,4 @@
-# Final_Year-project-
+# Final_Year-Project
 This final year project is based on steganography technique.
 Steganography -  Stegano(Coverd) + Graphy(Writting) means coverd writting.
 Steganography is the technique of hiding secret data within an ordinary, non-secret, file or message in order to avoid detection.
